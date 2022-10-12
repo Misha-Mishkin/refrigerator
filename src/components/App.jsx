@@ -1,16 +1,14 @@
+import Container from './Container';
+import Hero from './Hero';
+import Navigation from './Navigation';
+import Services from './Services';
+
 export const App = () => {
   return (
-    <div
-      style={{
-        height: '100vh',
-        display: 'flex',
-        justifyContent: 'center',
-        alignItems: 'center',
-        fontSize: 40,
-        color: '#010101'
-      }}
-    >
-      React homework template
-    </div>
+    <Container>
+      <Navigation />
+      <Hero />
+      <Services/>
+    </Container>
   );
 };
