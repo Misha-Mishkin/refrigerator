@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/refrigerator/static/css/main.7acaea2f.css",
-    "main.js": "/refrigerator/static/js/main.07d3183d.js",
+    "main.css": "/refrigerator/static/css/main.9bc986d1.css",
+    "main.js": "/refrigerator/static/js/main.31febcbd.js",
+    "static/media/hero.jpg": "/refrigerator/static/media/hero.cc14a6580cb64da20287.jpg",
     "index.html": "/refrigerator/index.html",
-    "main.7acaea2f.css.map": "/refrigerator/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/refrigerator/static/js/main.07d3183d.js.map"
+    "main.9bc986d1.css.map": "/refrigerator/static/css/main.9bc986d1.css.map",
+    "main.31febcbd.js.map": "/refrigerator/static/js/main.31febcbd.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.9bc986d1.css",
+    "static/js/main.31febcbd.js"
   ]
 }
