@@ -1,5 +1,5 @@
 import styled from 'styled-components';
-import img from '../images/logo.png';
+import img from '../../images/logo.png';
 
 export const Box = styled.header`
   max-width: 1280px;

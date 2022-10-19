@@ -1,5 +1,5 @@
 import styled from 'styled-components';
-import hero from '../images/hero.jpg';
+import hero from '../../images/hero.jpg';
 
 export const Box = styled.div`
   /* width: 1920px; */
