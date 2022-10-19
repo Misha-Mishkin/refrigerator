@@ -93,6 +93,8 @@ export const ProductDescription = styled.div`
   border-radius: 3px;
   padding-top: 35px;
   margin-bottom: 56px;
+  margin-left: auto;
+  margin-right: auto;
 `;
 
 export const Logo = styled.div`

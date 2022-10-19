@@ -47,6 +47,8 @@ export const Block = styled.div`
   background: #ffffff;
   border-radius: 3px;
   margin-bottom: 73px;
+  margin-left: auto;
+  margin-right: auto;
 
   display: flex;
 `;
