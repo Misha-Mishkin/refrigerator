@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/refrigerator/static/css/main.b4dad357.css",
-    "main.js": "/refrigerator/static/js/main.7390d8fa.js",
+    "main.css": "/refrigerator/static/css/main.6c651c21.css",
+    "main.js": "/refrigerator/static/js/main.23135cb7.js",
     "static/media/hero.jpg": "/refrigerator/static/media/hero.cc14a6580cb64da20287.jpg",
     "static/media/schtandart.png": "/refrigerator/static/media/schtandart.383eb88c9d1fa73b58e1.png",
     "index.html": "/refrigerator/index.html",
-    "main.b4dad357.css.map": "/refrigerator/static/css/main.b4dad357.css.map",
-    "main.7390d8fa.js.map": "/refrigerator/static/js/main.7390d8fa.js.map"
+    "main.6c651c21.css.map": "/refrigerator/static/css/main.6c651c21.css.map",
+    "main.23135cb7.js.map": "/refrigerator/static/js/main.23135cb7.js.map"
   },
   "entrypoints": [
-    "static/css/main.b4dad357.css",
-    "static/js/main.7390d8fa.js"
+    "static/css/main.6c651c21.css",
+    "static/js/main.23135cb7.js"
   ]
 }
