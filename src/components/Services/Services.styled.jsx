@@ -12,6 +12,7 @@ export const Wrapper = styled.div`
   width: 1200px;
   margin-right: auto;
   margin-left: auto;
+  margin-bottom: 102px;
 `;
 
 export const Items = styled.ul`
@@ -37,9 +38,9 @@ export const Box = styled.div`
 `;
 
 export const SubBox = styled.div`
-    padding: 61px 0 61px 84px;
-    width: 416px;
-`
+  padding: 61px 0 61px 84px;
+  width: 416px;
+`;
 
 export const SubTitle = styled.p`
   font-weight: 700;

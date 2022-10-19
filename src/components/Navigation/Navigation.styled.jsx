@@ -25,6 +25,10 @@ export const Button = styled.button`
   border-radius: 3px;
   border: none;
   margin-right: 14px;
+
+  &:hover {
+    background: #ffffff;
+  }
 `;
 
 export const ButtonPrice = styled.button`
@@ -34,4 +38,14 @@ export const ButtonPrice = styled.button`
   background: #c4c4c4;
   border-radius: 3px;
   border: none;
+
+  &:hover {
+    background: #ffffff;
+  }
+`;
+
+export const ButtonText = styled.p`
+  font-weight: 700;
+  font-size: 13px;
+  line-height: 15px;
 `;
