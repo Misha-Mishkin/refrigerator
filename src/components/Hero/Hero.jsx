@@ -1,5 +1,12 @@
-import { Box } from './Hero.styled';
+import { Box, Form, Img } from './Hero.styled';
 
 export default function Hero() {
-  return <Box/>;
+  return (
+    <Box>
+      <Form>
+        <Img />
+      </Form>
+      
+    </Box>
+  );
 }

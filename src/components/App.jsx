@@ -2,11 +2,11 @@ import Container from './Container';
 import Hero from './Hero';
 import Navigation from './Navigation';
 import Services from './Services';
-import Products from './Products';
-import About from './About';
+// import Products from './Products';
+// import About from './About';
 import Portfolio from './Portfolio';
 import Questions from './Questions';
-import Contacts from './Contacts';
+// import Contacts from './Contacts';
 import Footer from './Footer';
 
 export const App = () => {
@@ -15,11 +15,12 @@ export const App = () => {
       <Navigation />
       <Hero />
       <Services />
-      <Products />
-      <About />
+      {/* <Products /> */}
+      {/* <About /> */}
       <Portfolio />
       <Questions />
-      <Contacts />
+      Отзывы
+      {/* <Contacts /> */}
       <Footer />
     </Container>
   );

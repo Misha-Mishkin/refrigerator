@@ -1,4 +1,4 @@
-import { Header, BlockItems, Items, Item, Block } from './Portfolio.styled';
+import { Header, BlockItems, Items, Item } from './Portfolio.styled';
 
 export default function Portfolio() {
   return (
@@ -12,7 +12,7 @@ export default function Portfolio() {
           <Item />
         </Items>
       </BlockItems>
-      <Block />
+      {/* <Block /> */}
     </>
   );
 }
